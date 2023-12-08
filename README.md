@@ -17,3 +17,6 @@ These are my solutions for [Advent Of Code](https://adventofcode.com/) 2023 in T
 - [Day 5](https://adventofcode.com/2023/day/5): If You Give A Seed A Fertilizer
   - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day5/part_1/Fertilizer.ts)
   - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day5/part_2/Fertilizer.ts)
+- [Day 6](https://adventofcode.com/2023/day/6): Wait For It
+  - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day6/part_1/WaitForIt.ts)
+  - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day6/part_2/WaitForIt.ts)
