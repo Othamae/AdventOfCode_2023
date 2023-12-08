@@ -20,3 +20,6 @@ These are my solutions for [Advent Of Code](https://adventofcode.com/) 2023 in T
 - [Day 6](https://adventofcode.com/2023/day/6): Wait For It
   - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day6/part_1/WaitForIt.ts)
   - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day6/part_2/WaitForIt.ts)
+- [Day 7](https://adventofcode.com/2023/day/7): Camel Cards
+  - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day7/part_1/CamelCards.ts)
+  - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day7/part_2/CamelCards.ts)
