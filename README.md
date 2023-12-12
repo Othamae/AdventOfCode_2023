@@ -23,3 +23,6 @@ These are my solutions for [Advent Of Code](https://adventofcode.com/) 2023 in T
 - [Day 7](https://adventofcode.com/2023/day/7): Camel Cards
   - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day7/part_1/CamelCards.ts)
   - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day7/part_2/CamelCards.ts)
+- [Day 8](https://adventofcode.com/2023/day/8): Haunted Wasteland
+  - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day8/part_1/Wasteland.ts)
+  - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day8/part_2/Wasteland.ts)
