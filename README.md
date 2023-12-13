@@ -26,3 +26,6 @@ These are my solutions for [Advent Of Code](https://adventofcode.com/) 2023 in T
 - [Day 8](https://adventofcode.com/2023/day/8): Haunted Wasteland
   - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day8/part_1/Wasteland.ts)
   - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day8/part_2/Wasteland.ts)
+- [Day 9](https://adventofcode.com/2023/day/9): Mirage Maintenance
+  - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day9/part_1/Mirage.ts)
+  - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day9/part_2/Mirage.ts)
