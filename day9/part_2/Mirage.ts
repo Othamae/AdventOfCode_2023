@@ -24,7 +24,6 @@ function getSequence(line: number[], sequences: number[]) {
         nextLine.push(line[i + 1] - line[i])
     }
     sequences.push(nextLine[0])
-    console.log(sequences)
     return getSequence(nextLine, sequences)
 
 }
