@@ -31,4 +31,7 @@ These are my solutions for [Advent Of Code](https://adventofcode.com/) 2023 in T
   - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day9/part_2/Mirage.ts)
 - [Day 10](https://adventofcode.com/2023/day/10): Pipe Maze
   - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day10/part_1/PipeMaze.ts)
-  - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day10/part_2/PipeMaze.ts) 
+  - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day10/part_2/PipeMaze.ts)
+- [Day 11](https://adventofcode.com/2023/day/11): Cosmic Expansion
+  - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day11/part_1/CosmicExp.ts)
+  - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day11/part_2/CosmicExp.ts) 
