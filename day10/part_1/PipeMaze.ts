@@ -83,22 +83,6 @@ function PipeMaze(filePath: string) {
 
     return Math.max(...finalDistances.values())
 
-    // let part2 = 0
-    // for (let r = minRow;r <= maxRow;r++) {
-    //     for (let c = minCol;c <= maxCol;c++) {
-    //         if (visited.has(JSON.stringify([r, c]))) continue
-    //         let crossings = 0
-    //         for (let c1 = c;c1 >= minCol;c1--) {
-    //             if (!visited.has(JSON.stringify([r, c1]))) continue
-    //             if (['|', 'J', 'L'].includes(maze[r][c1])) {
-    //                 crossings++
-    //             }
-    //         }
-    //         if (crossings % 2 === 1) part2++
-    //     }
-    // }
-
-
 }
 
 console.log(PipeMaze(filePath))
