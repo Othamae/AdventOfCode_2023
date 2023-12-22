@@ -35,3 +35,6 @@ These are my solutions for [Advent Of Code](https://adventofcode.com/) 2023 in T
 - [Day 11](https://adventofcode.com/2023/day/11): Cosmic Expansion
   - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day11/part_1/CosmicExp.ts)
   - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day11/part_2/CosmicExp.ts) 
+- [Day 12](https://adventofcode.com/2023/day/12): Hot Springs
+  - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day12/part_1/HotSprings.ts)
+  - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day12/part_2/HotSprings.ts) 
