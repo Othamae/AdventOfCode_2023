@@ -38,3 +38,6 @@ These are my solutions for [Advent Of Code](https://adventofcode.com/) 2023 in T
 - [Day 12](https://adventofcode.com/2023/day/12): Hot Springs
   - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day12/part_1/HotSprings.ts)
   - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day12/part_2/HotSprings.ts) 
+- [Day 13](https://adventofcode.com/2023/day/13): Hot Springs
+  - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day13/part_1/Incidence.ts)
+  - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day13/part_2/Incidence.ts)
