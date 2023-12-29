@@ -41,3 +41,6 @@ These are my solutions for [Advent Of Code](https://adventofcode.com/) 2023 in T
 - [Day 13](https://adventofcode.com/2023/day/13): Point of Incidence
   - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day13/part_1/Incidence.ts)
   - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day13/part_2/Incidence.ts)
+- [Day 14](https://adventofcode.com/2023/day/14): Parabolic Reflector Dish
+  - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day14/part_1/ParabolicReflector.ts)
+  - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day14/part_2/ParabolicReflector.ts)
