@@ -47,3 +47,6 @@ These are my solutions for [Advent Of Code](https://adventofcode.com/) 2023 in T
 - [Day 15](https://adventofcode.com/2023/day/15): Lens Library
   - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day15/part_1/LensLibrary.ts)
   - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day15/part_2/LensLibrary.ts)
+- [Day 16](https://adventofcode.com/2023/day/16): The Floor Will Be Lava
+  - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day16/part_1/Lava.ts)
+  - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day16/part_2/Lava.ts)
