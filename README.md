@@ -50,3 +50,7 @@ These are my solutions for [Advent Of Code](https://adventofcode.com/) 2023 in T
 - [Day 16](https://adventofcode.com/2023/day/16): The Floor Will Be Lava
   - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day16/part_1/Lava.ts)
   - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day16/part_2/Lava.ts)
+- [Day 17](https://adventofcode.com/2023/day/17): Clumsy Crucible
+  - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day17/part_1/ClumsyCrucible.ts)
+  - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day17/part_2/ClumsyCrucible.ts)
+
