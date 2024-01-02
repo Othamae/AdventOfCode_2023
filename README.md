@@ -53,4 +53,6 @@ These are my solutions for [Advent Of Code](https://adventofcode.com/) 2023 in T
 - [Day 17](https://adventofcode.com/2023/day/17): Clumsy Crucible
   - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day17/part_1/ClumsyCrucible.ts)
   - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day17/part_2/ClumsyCrucible.ts)
-
+- [Day 18](https://adventofcode.com/2023/day/18): Lavaduct Lagoon
+  - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day18/part_1/LavaductLagoon.ts)
+  - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day18/part_2/LavaductLagoon.ts)
