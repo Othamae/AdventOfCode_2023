@@ -56,3 +56,6 @@ These are my solutions for [Advent Of Code](https://adventofcode.com/) 2023 in T
 - [Day 18](https://adventofcode.com/2023/day/18): Lavaduct Lagoon
   - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day18/part_1/LavaductLagoon.ts)
   - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day18/part_2/LavaductLagoon.ts)
+- [Day 19](https://adventofcode.com/2023/day/19): Aplenty
+  - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day19/part_1/Aplenty.ts)
+  - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day19/part_2/Aplenty.ts)
