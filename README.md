@@ -59,3 +59,6 @@ These are my solutions for [Advent Of Code](https://adventofcode.com/) 2023 in T
 - [Day 19](https://adventofcode.com/2023/day/19): Aplenty
   - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day19/part_1/Aplenty.ts)
   - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day19/part_2/Aplenty.ts)
+- [Day 20](https://adventofcode.com/2023/day/20): Pulse Propagation
+  - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day20/part_1/PulsePropagation.ts)
+  - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day20/part_2/PulsePropagation.ts)
