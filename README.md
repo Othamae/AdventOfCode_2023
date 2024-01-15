@@ -65,3 +65,6 @@ These are my solutions for [Advent Of Code](https://adventofcode.com/) 2023 in T
 - [Day 21](https://adventofcode.com/2023/day/21): Pulse Propagation
   - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day21/part_1/StepCounter.ts)
   - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day21/part_2/StepCounter.ts)
+- [Day 22](https://adventofcode.com/2023/day/22): Sand Slabs
+  - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day22/part_1/SandSlabs.ts)
+  - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day22/part_2/SandSlabs.ts)
