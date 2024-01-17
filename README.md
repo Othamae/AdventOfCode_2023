@@ -68,3 +68,6 @@ These are my solutions for [Advent Of Code](https://adventofcode.com/) 2023 in T
 - [Day 22](https://adventofcode.com/2023/day/22): Sand Slabs
   - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day22/part_1/SandSlabs.ts)
   - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day22/part_2/SandSlabs.ts)
+- [Day 23](https://adventofcode.com/2023/day/23): Long Walk
+  - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day23/part_1/LongWalk.ts)
+  - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day23/part_2/LongWalk.ts)
