@@ -71,3 +71,6 @@ These are my solutions for [Advent Of Code](https://adventofcode.com/) 2023 in T
 - [Day 23](https://adventofcode.com/2023/day/23): Long Walk
   - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day23/part_1/LongWalk.ts)
   - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day23/part_2/LongWalk.ts)
+- [Day 24](https://adventofcode.com/2023/day/24): Never Tell Me The Odds
+  - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day24/part_1/TheOdds.ts)
+  - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day24/part_2/TheOdds.ts)
