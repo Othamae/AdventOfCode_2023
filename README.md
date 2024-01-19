@@ -10,7 +10,7 @@ These are my solutions for [Advent Of Code](https://adventofcode.com/) 2023 in T
   - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day2/part_2/CubeConundrum.ts)
 - [Day 3](https://adventofcode.com/2023/day/3): Gear Ratios
   - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day3/part_1/GearRatios.ts)
-  - [Part 2]() *comming soon*
+  - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day3/part_2/GearRatios.ts)
 - [Day 4](https://adventofcode.com/2023/day/4): Scratchcards
   - [Part 1](https://github.com/Othamae/AdventOfCode_2023/blob/main/day4/part_1/Scratchcards.ts)
   - [Part 2](https://github.com/Othamae/AdventOfCode_2023/blob/main/day4/part_2/Scratchcards.ts)
