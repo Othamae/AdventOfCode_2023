@@ -67,9 +67,9 @@ function PipeMaze(filePath: string) {
             const [dy, dx] = DIFFS[d]
             const nextY = row + dy
             const nextX = col + dx
-            const nextChar = maze[nextY][nextX]
             if (nextY < 0 || nextY >= maze.length) return false
             if (nextX < 0 || nextX >= maze[0].length) return false
+            const nextChar = maze[nextY][nextX]
             return VALID[d].includes(nextChar)
         }).map((d) => {
             const [dy, dx] = DIFFS[d]
